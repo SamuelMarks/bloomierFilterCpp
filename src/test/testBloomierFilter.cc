@@ -4,7 +4,7 @@
 #include <list>
 #include <map>
 #include <string>
-#include "bloomierFilter.h"
+#include "BloomierFilter.h"
 #include "util.h"
 
 using namespace std;

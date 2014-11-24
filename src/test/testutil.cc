@@ -4,7 +4,7 @@
 #include <list>
 #include <map>
 #include <string>
-#include "Util.h"
+#include "util.h"
 
 class QuickTest : public testing::Test {
  protected:

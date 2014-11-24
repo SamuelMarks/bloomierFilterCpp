@@ -4,7 +4,7 @@
 #include <list>
 #include <map>
 #include <string>
-#include "UtilEncode.h"
+#include "utilEncode.h"
 
 class QuickTest : public testing::Test {
  protected:
