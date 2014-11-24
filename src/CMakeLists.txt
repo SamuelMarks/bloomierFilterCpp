@@ -19,7 +19,7 @@ set(bloomier_srcs
     main.cpp 
     
     # bloomier filter code
-    bloomierfilter.cpp 
+    BloomierFilter.cpp 
     core/util.cpp
     core/utilEncode.cpp
     core/hash.cpp
