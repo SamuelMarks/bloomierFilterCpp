@@ -5,7 +5,7 @@
 // To change the template use AppCode | Preferences | File Templates.
 //
 
-#include "Util.h"
+#include "util.h"
 
 namespace bloomier {
 

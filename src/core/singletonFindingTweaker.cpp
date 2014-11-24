@@ -1,7 +1,6 @@
 #include "util.h"
 #include "singletonFindingTweaker.h"
 
-//using namesapce std;
 using namespace std;
 namespace bloomier {
     
